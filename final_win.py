@@ -91,3 +91,4 @@ class Test(QWidget):
             return txt_res4
         elif self.index<=0.4:
             return txt_res5
+        
